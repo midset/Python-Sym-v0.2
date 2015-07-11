@@ -6,9 +6,9 @@ Symlink & BackConnect
 
     1 - BackConnect (create a back connect file)
     
-    2- create Symlink to whole server
+    2-  Create Symlink to whole server
     
-    3- create Symlink to a file
+    3-  Create Symlink to a file
 
     PS : * if you used choices 2 or 3 we will bypass safe_mode in server
          * a passwd.txt file will created cointain /etc/passwd file

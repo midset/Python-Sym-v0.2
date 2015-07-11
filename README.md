@@ -3,9 +3,11 @@ Python Sym v0.2
 Symlink & BackConnect
 
 ------------------------------------------------------------------------------------------------
-0 - quit program
-    1- BackConnect (create a back connect file)
+
+    1 - BackConnect (create a back connect file)
+    
     2- create Symlink to whole server
+    
     3- create Symlink to a file
 
     PS : * if you used choices 2 or 3 we will bypass safe_mode in server

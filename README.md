@@ -21,7 +21,6 @@ Symlink & BackConnect
 ------------------------------------------------------------------------------------------------
 
 
-[+]Read /etc/passwd >> passwd.txt
 GreeTz : HsN,Hiso,Fat7,vir,Marco,oudouz,D3v.
 All Rights Reserved @ Mid-Set
 C0ntact : http://fb.com/midset00

@@ -21,6 +21,6 @@ Symlink & BackConnect
 ------------------------------------------------------------------------------------------------
 
 
-GreeTz : HsN,Hiso,Fat7,vir,Marco,oudouz,D3v.
-All Rights Reserved @ Mid-Set
-C0ntact : http://fb.com/midset00
+
+All Rights Reserved @ Abdelhamid
+C0ntact : https://www.linkedin.com/in/abdelhamid-ben/
